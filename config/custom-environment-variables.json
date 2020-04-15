@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "cineplex_jwtPrivateKey"
+	"jwtPrivateKey": "cineplex_jwtPrivateKey",
+	"db": "cinplex_db"
 }
