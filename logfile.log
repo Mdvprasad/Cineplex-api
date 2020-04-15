@@ -106,3 +106,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/cineplex...","timestamp":"2020-04-15T14:32:29.141Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-15T15:14:52.170Z"}
 {"level":"info","message":"Connected to mongodb://localhost/cineplex...","timestamp":"2020-04-15T15:14:52.211Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-15T16:16:34.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/cineplex...","timestamp":"2020-04-15T16:16:34.453Z"}
