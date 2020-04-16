@@ -1,4 +1,6 @@
 {
-    "jwtPrivateKey": "",
-    "db": "mongodb://localhost/cineplex"
+	"jwtPrivateKey": "",
+	"db": "mongodb://localhost:27017/cineplex",
+	"port": "3900",
+	"requiresAuth": true
 }
